@@ -22,7 +22,11 @@ O **Secure Hash Algorithm** é um algorítimo de encriptação, que gera um conj
 #### Objetos fundamentais
 
 -**BLOBS:** armazena metadados do Git, como o tipo do objeto, o tamanho e o conteúdo.
+
+
 -**TREES**: armazenam blobs, armazena o nome do arquivo, podem apontar tanto para blobs quanto para outras árvores.
+
+
 -**COMMIT**: armazena qualquer tipo de informação e garante a segurança se o arquivo não foi alterado (ou há mudança no SHA1)
 
 #### Comandos básicos do terminal (Windows)
