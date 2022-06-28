@@ -2,6 +2,7 @@
 
 Neste repositório estarão presentes os resumos das aulas do Bootcamp Santander Fullstack - DIO
 
-Resumos disponiveis:
+Resumos:
 
 - Git e Github
+- HTML, CSS, JS
